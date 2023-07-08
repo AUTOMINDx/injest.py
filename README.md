@@ -1,2 +1,1 @@
-# injest.py
-PrivateGPT injest script
+injest script from PrivateGPT
